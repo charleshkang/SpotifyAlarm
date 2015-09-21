@@ -532,6 +532,7 @@
 				426BBA5F1BAF4F4300380D84 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		426BBA601BAF4F4300380D84 /* Build configuration list for PBXNativeTarget "SpotifyTutorialTests" */ = {
 			isa = XCConfigurationList;
@@ -540,6 +541,7 @@
 				426BBA621BAF4F4300380D84 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		426BBA631BAF4F4300380D84 /* Build configuration list for PBXNativeTarget "SpotifyTutorialUITests" */ = {
 			isa = XCConfigurationList;
@@ -548,6 +550,7 @@
 				426BBA651BAF4F4300380D84 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
